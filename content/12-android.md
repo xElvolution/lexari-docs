@@ -4,7 +4,7 @@ slug: android
 group: Account
 summary: Lexari on your phone, with the same agents, chats and Confirm cards.
 ---
-<p><a class="btn" href="https://github.com/xElvolution/lexari-web/releases/latest/download/lexari.apk">Download the APK</a></p>
+<p><a class="btn" href="https://github.com/xElvolution/lexari/releases/download/android-latest/lexari.apk">Download the APK</a></p>
 
 The Android app connects to the same account as the web app. [[testnet]]
 

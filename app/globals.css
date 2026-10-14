@@ -229,3 +229,12 @@ tbody tr{transition:background .2s}tbody tr:hover{background:rgba(91,43,255,.05)
 .diagram svg{display:block;width:100%;min-width:560px;height:auto}
 .diagram figcaption{margin-top:10px;font-size:13px;color:var(--mute)}
 .table-wrap td a,.table-wrap td code{overflow-wrap:anywhere;word-break:break-word}
+
+/* page banners, screenshots */
+.banner{margin:0 0 28px;border-radius:20px;overflow:hidden;border:1px solid var(--line);background:var(--paper2);aspect-ratio:10/3}
+.banner img{display:block;width:100%;height:100%;object-fit:cover}
+.diagram img{display:block;width:100%;height:auto;min-width:520px}
+.shot{margin:24px 0;max-width:100%}
+.shot picture,.shot img{display:block;width:100%;height:auto;border-radius:16px;border:1px solid var(--line)}
+.shot figcaption{margin-top:10px;font-size:13px;color:var(--mute)}
+@media (max-width:600px){.banner{border-radius:14px;margin-bottom:20px}.shot img{max-width:100%}}

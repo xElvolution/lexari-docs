@@ -12,7 +12,7 @@ Only **your own messages** are instructions. Web pages, emails, files, screensho
 
 ## Memory [[live]]
 
-At the end of a reply your agent may propose one line to remember, like "Prefers summaries in bullet points". It is a proposal until you keep it. Browse and delete everything in **Brain**.
+At the end of a reply your agent may propose one line to remember, like "Prefers summaries in bullet points". It is a proposal until you keep it. Browse and delete everything in **Brain**. For how memory, personality and decisions work under the hood, see [Engram, the agent brain](/engram).
 
 ## Its computer [[live]]
 

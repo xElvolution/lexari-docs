@@ -10,6 +10,7 @@ export default function DocPage({ doc }: { doc: Doc }) {
   return (
     <div className="page" key={doc.slug}>
       <article>
+        <figure className="banner"><img src={`/img/banners/${doc.slug}.svg`} alt="" width={1200} height={360} fetchPriority="high" /></figure>
         {doc.slug === "index" ? <Hero /> : (
           <header className="doc-head">
             <p className="eyebrow">{doc.group}</p>
@@ -22,7 +23,7 @@ export default function DocPage({ doc }: { doc: Doc }) {
           {prev ? <Link href={href(prev.slug)} className="pg prev"><small>Previous</small><b>{prev.title}</b></Link> : <span />}
           {next ? <Link href={href(next.slug)} className="pg next"><small>Next</small><b>{next.title}</b></Link> : <span />}
         </nav>
-        <footer className="foot"><span>© 2026 Lexari</span><a href="https://lexari.ai" target="_blank" rel="noopener">lexari.ai</a><a href="https://app.lexari.ai" target="_blank" rel="noopener">app.lexari.ai</a></footer>
+        <footer className="foot"><span>Copyright © 2026 Elvolution. All rights reserved.</span><a href="https://lexari.ai" target="_blank" rel="noopener">lexari.ai</a><a href="https://app.lexari.ai" target="_blank" rel="noopener">app.lexari.ai</a></footer>
       </article>
       <Toc items={doc.headings} />
     </div>

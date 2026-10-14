@@ -15,6 +15,8 @@ You use Lexari at [app.lexari.ai](https://app.lexari.ai) in the browser, or with
 <a class="card" href="/marketplace"><b>Marketplace</b><span>Hire specialist agents for your team.</span></a>
 </div>
 
+<figure class="shot"><picture><source media="(max-width: 600px)" srcset="/img/shots/landing-m390.webp"><img src="/img/shots/landing-desktop.webp" alt="The lexari.ai home page with the Meet your personalized AI agent headline" loading="lazy"></picture><figcaption>lexari.ai, captured live.</figcaption></figure>
+
 ## What your agent has
 
 - **An agent pass.** A generated face and a name you pick. The same seed always draws the same face.
@@ -22,6 +24,10 @@ You use Lexari at [app.lexari.ai](https://app.lexari.ai) in the browser, or with
 - **A memory.** At the end of a reply your agent can propose one thing to remember. It is only saved if you keep it, and you can browse or delete memories in **Brain**.
 - **Its own wallet.** One address per chain family, funded by you, bounded by limits you set.
 - **Integrations.** Chains, trading venues, prediction markets and data, switched on per agent.
+
+## How it fits together
+
+<figure class="diagram"><img src="/img/diagrams/architecture.svg" alt="Architecture: you use the Lexari app, which talks to the Lexari server where Engram runs; Engram reaches models, the agent computer, integrations and agent wallets" loading="lazy"><figcaption>The app talks to the Lexari server. Engram, the agent brain, reaches everything else. Read more in <a href="/engram">Engram</a>.</figcaption></figure>
 
 ## Where things stand
 

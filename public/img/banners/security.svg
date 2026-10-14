@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Security" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif">
+<defs><radialGradient id="g" cx="78%" cy="45%" r="55%"><stop offset="0" stop-color="#7B55FF" stop-opacity=".45"/><stop offset="1" stop-color="#7B55FF" stop-opacity="0"/></radialGradient>
+<pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#0A0B0D" fill-opacity=".14"/></pattern></defs>
+<rect width="1200" height="360" fill="#ECE8DC"/><rect width="1200" height="360" fill="url(#d)"/><rect width="1200" height="360" fill="url(#g)"/>
+<text x="64" y="92" font-size="20" font-weight="800" letter-spacing="4" fill="#5B2BFF">ACCOUNT</text>
+<text x="64" y="150" font-size="64" font-weight="800" fill="#0A0B0D" text-anchor="start">Security</text><text x="64" y="322" font-size="18" font-weight="700" fill="#0A0B0D" fill-opacity=".55">lexari docs</text><g><path d="M930 60l110 40v80c0 70-50 110-110 130-60-20-110-60-110-130v-80z" fill="#5B2BFF" stroke="#0A0B0D" stroke-width="3"/><rect x="895" y="160" width="70" height="60" rx="10" fill="#F5F2E9" stroke="#0A0B0D" stroke-width="3"/><path d="M908 160v-18a22 22 0 0 1 44 0v18" stroke="#0A0B0D" stroke-width="5" fill="none"/></g></svg>

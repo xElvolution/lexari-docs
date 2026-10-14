@@ -59,7 +59,7 @@ export default function Chrome({ nav, index, children }: { nav: Nav; index: Entr
                 })}
               </div>
             ))}
-            <a className="apk" href="https://github.com/xElvolution/lexari-web/releases/latest/download/lexari.apk"><Face size={22} /> Get the Android app</a>
+            <a className="apk" href="https://github.com/xElvolution/lexari/releases/download/android-latest/lexari.apk"><Face size={22} /> Get the Android app</a>
           </nav>
         </aside>
         <div className="main">{children}</div>

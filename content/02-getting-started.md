@@ -8,6 +8,9 @@ summary: Sign in, meet your agent and send your first message in a couple of min
 
 Open [app.lexari.ai](https://app.lexari.ai) and choose how to sign in:
 
+<figure class="shot"><picture><source media="(max-width: 600px)" srcset="/img/shots/app-signin-m390.webp"><img src="/img/shots/app-signin-desktop.webp" alt="The Lexari sign-in screen at app.lexari.ai" loading="lazy"></picture><figcaption>The sign-in screen at app.lexari.ai, captured live.</figcaption></figure>
+
+
 - **Google or email.** Lexari sets up a sign-in wallet for you automatically. No seed phrase to manage.
 - **A Solana wallet.** Phantom, Solflare or Backpack. You sign a short one-time message to prove it is you. Signing in never moves funds.
 

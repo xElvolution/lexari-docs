@@ -34,4 +34,4 @@ Memories, chats and files stay in your account. You can delete memories in Brain
 
 ## How do I get the Android app?
 
-Download the [APK](https://github.com/xElvolution/lexari-web/releases/latest/download/lexari.apk). See [Android app](/android).
+Download the [APK](https://github.com/xElvolution/lexari/releases/download/android-latest/lexari.apk). See [Android app](/android).

@@ -12,3 +12,8 @@ DOCS_BASE=/docs npm run build   # same site under a /docs path
 ```
 
 The app lives at [app.lexari.ai](https://app.lexari.ai). Source: [github.com/xElvolution/lexari](https://github.com/xElvolution/lexari).
+
+
+## Copyright
+
+Copyright (c) 2026 Elvolution. All rights reserved. This is proprietary software: see [LICENSE](LICENSE). Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
